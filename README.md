@@ -27,7 +27,7 @@ Chacune de ses valeurs a déjà été centré réduit au préalable.
 
 Ces individus ont été interrogés sur leur fréquence de consommation des différentes drogues ci-dessous.
 
-| Drogue |
+| Drug |
 | ------------- |
 | Alcohol |
 | Amphetamines |
