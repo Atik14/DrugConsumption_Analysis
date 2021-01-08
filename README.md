@@ -49,3 +49,15 @@ Ces individus ont été interrogés sur leur fréquence de consommation des diff
 | Fictitious Drug Semeron | 
 | Volatile Substance Abuse | 
 
+Les réponses proposés étaient les suivantes :
+
+| Answer | Meaning |
+| ------------- | ------------- |
+| CL0  | Never Used |
+| CL1 | Used over a Decade Ago |
+| CL2 | Used in Last Decade |
+| CL3 | Used in Last Year |
+| CL4 | Used in Last Month |
+| CL5 | Used in Last Week |
+| CL6 | Used in Last Day |
+
