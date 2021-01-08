@@ -27,27 +27,27 @@ Chacune de ses valeurs a déjà été centré réduit au préalable.
 
 Ces individus ont été interrogés sur leur fréquence de consommation des différentes drogues ci-dessous.
 
-| Drug |
-| ------------- |
-| Alcohol |
-| Amphetamines |
-| Amyl nitrite | 
-| Benzodiazepine |
-| Caffeine |
-| Cannabis |
-| Chocolate  |
-| Cocaine |
-| Crack | 
-| Ecstasy | 
-| Heroin | 
-| Ketamine | 
-| Legal Highs | 
-| LSD | 
-| Methadone |
-| Magic Mushrooms | 
-| Nicotine | 
-| Fictitious Drug Semeron | 
-| Volatile Substance Abuse | 
+**Liste des differentes drogues, licites et illicites :**
+
+* Alcohol 
+* Amphetamines 
+* Amyl nitrite 
+* Benzodiazepine 
+* Caffeine 
+* Cannabis 
+* Chocolate  
+* Cocaine 
+* Crack 
+* Ecstasy 
+* Heroin 
+* Ketamine 
+* Legal Highs 
+* LSD 
+* Methadone 
+* Magic Mushrooms 
+* Nicotine 
+* Fictitious Drug Semeron 
+* Volatile Substance Abuse 
 
 Les réponses proposés étaient les suivantes :
 
