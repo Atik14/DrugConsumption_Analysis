@@ -1,16 +1,18 @@
-# DrugConsumption_Analysis
-L'objectif de ce projet est de prévoir la probabilité de la consommation de differentes drogues licites et illicites sur la base de la personnalité et de l'utilisation de celles-ci.
+# Drug Consumption Analysis - Machine Learning
+The objective of this project is to predict the probability of the consumption of different licit and illicit drugs on the basis of personality and drug use.
 
 https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 
-## Attributs sur les individus
+**For our analysis, we will focus more specifically on cannabis use. Indeed, cannabis is a drug that is becoming more and more authorized in different countries, such as Canada recently for example in 2018.**
 
-Nous possédons 13 attributs sur les différents individus interrogés.
-Chacune de ses valeurs a déjà été centré réduit au préalable.
+## Attributes on individuals
+
+We have 13 attributes on the different individuals interviewed.
+Each of its values have already been reduced centered beforehand.
 
 | Data | Type |
 | ------------- | ------------- |
-| ID  | Real |
+| ID  | Integer |
 | Gender | Real |
 | Education | Real |
 | Country | Real |
@@ -23,11 +25,11 @@ Chacune de ses valeurs a déjà été centré réduit au préalable.
 | Impulsive | Real |
 | SS | Real |
 
-## Consommation de differentes drogues
+## Use of different drugs
 
-Ces individus ont été interrogés sur leur fréquence de consommation des différentes drogues ci-dessous.
+These individuals were asked about their frequency of use of the different drugs listed below.
 
-**Liste des differentes drogues, licites et illicites :**
+**List of different drugs, licit and illicit :**
 
 * Alcohol 
 * Amphetamines 
@@ -49,7 +51,7 @@ Ces individus ont été interrogés sur leur fréquence de consommation des diff
 * Fictitious Drug Semeron 
 * Volatile Substance Abuse 
 
-Les réponses proposés étaient les suivantes :
+The proposed responses were as follows :
 
 | Answer | Meaning |
 | ------------- | ------------- |
